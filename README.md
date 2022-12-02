@@ -3,7 +3,7 @@
 <img src="./img/computer.png" width="180px" align="right" alt="Computer">
 
 <p align="left"> 
-  Hey! I'm a Full Stack developer, I really like to program and see hardware working. I graduated in <strong>Development and Systems Analysis</strong> and now I'm studying the last period of <strong>Computer Engineering</strong> at IFPB. -> <a href="http://lattes.cnpq.br/9878253455373113">Lattes</a> <-
+  Hey! I'm a Full Stack developer, I really like to program and see hardware working. I graduated in <strong>Development and Systems Analysis</strong> and now I'm studying the last period of <strong>Computer Engineering</strong> at IFPB. -> <a href="http://lattes.cnpq.br/9878253455373113" target="_blank">Lattes</a> <-
 </p>
 
 <p align="left">
