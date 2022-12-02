@@ -3,15 +3,19 @@
 <img src="./img/computer.png" width="180px" align="right" alt="Computer">
 
 <p align="left"> 
-  Hey! I'm a Full Stack developer, I really like to program and see hardware working. I graduated in <strong>Development and Systems Analysis</strong> and now I'm studying the last period of <strong>Computer Engineering</strong> at IFPB.
+  Hey! I'm a Full Stack developer, I really like to program and see hardware working. I graduated in <strong>Development and Systems Analysis</strong> and now I'm studying the last period of <strong>Computer Engineering</strong> at IFPB. -> <a href="http://lattes.cnpq.br/9878253455373113">Lattes</a> <-
 </p>
 
 <p align="left">
-  🤖 Languages: <strong> Python | C++ | C | Java | JavaScript | HTML |  CSS | PHP </strong>
+  🤖 Languages: <strong> Python | C++ | C | Java | JavaScript | PHP | HTML |  CSS </strong>
 </p>
 
 <p align="left">
   🛠️ Tools: <strong> Git | VSCode | Linux | Windows | OSx</strong>
+</p>
+
+<p align="left">
+  💾 Database: <strong> MySQL</strong>
 </p>
 
 <p align="left">
