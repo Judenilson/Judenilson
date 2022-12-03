@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🤖 Languages: <strong> Python | C++ | C | Java | JavaScript | PHP | HTML |  CSS </strong>
+  🤖 Languages: <strong> Python | C++ | C | Java | JavaScript | TypeScript | PHP | HTML |  CSS </strong>
 </p>
 
 <p align="left">
