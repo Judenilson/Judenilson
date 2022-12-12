@@ -43,15 +43,19 @@
 <div align="center" style="display: flex;
     flex-direction: row;
     justify-content: space-between;">
+  <div>
   <a href="https://github.com/Judenilson">
   <img style:"
     display: flex;
     flex-direction: row;
     align-items: flex-start;" height="180em" src="https://github-readme-stats.vercel.app/api?username=judenilson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </a> </div>
+  <div>
+  <a href="https://github.com/Judenilson">
   <img style:"
     display: flex;
     flex-direction: row;
     align-items: flex-end;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judenilson&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+    </a> </div>
 </div>
  
