@@ -6,7 +6,8 @@
   Hey! I'm a Full Stack developer, I really like to program and see hardware working. I graduated in <strong>Development and Systems Analysis</strong> and now I'm studying the last period of <strong>Computer Engineering</strong> at IFPB. -> <a href="http://lattes.cnpq.br/9878253455373113" target="_blank">Lattes</a> <-
 </p>
 
-<div style="display: flex; justify-content: space-between;"><br>
+## I already did something in...
+<div style="display: flex; justify-content: space-between; width:400px;">
   <img align="center" alt="Jud-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
   <img align="center" alt="Jud-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />          
   <img align="center" alt="Jud-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />          
@@ -23,10 +24,10 @@
   <img align="center" alt="Jud-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />          
   <img align="center" alt="Jud-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />         
 </div>
+
 <br>
-<p align="left">
-  🍒 <strong>How to reach me ...</strong> ⤵️
-</p>
+
+#### How to talk to me...⤵️
 
 <p align="left">
   <a href="mailto:judenilson@gmail.com" alt="Gmail" target="_blank">
