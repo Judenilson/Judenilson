@@ -20,24 +20,11 @@
   <img align="center" alt="Jud-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
   <img align="center" alt="Jud-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />   
   <img align="center" alt="Jud-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
-  <img align="center" alt="Jud-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />          
+  <i class="devicon-github-original"><img align="center" alt="Jud-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></i>
   <img align="center" alt="Jud-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />          
   <img align="center" alt="Jud-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />         
   
 </div>
-
-
-<p align="left">
-  🤖 Languages: <strong> Python | C++ | C | Java | JavaScript | TypeScript | PHP | HTML |  CSS </strong>
-</p>
-
-<p align="left">
-  🛠️ Tools: <strong> Git | VSCode | Linux | Windows | OSx</strong>
-</p>
-
-<p align="left">
-  💾 Database: <strong> MySQL</strong>
-</p>
 
 <p align="left">
   🍒 <strong>How to reach me ...</strong> ⤵️
