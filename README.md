@@ -7,7 +7,7 @@
 </p>
 
 ## I already did something in...
-<div style="display: flex; justify-content: space-between; width:400px;">
+<div style="display: flex; justify-content: space-between">
   <img align="center" alt="Jud-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
   <img align="center" alt="Jud-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />          
   <img align="center" alt="Jud-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />          
@@ -40,8 +40,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/judenilson"/></a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/Judenilson">
+<div style="display: flex; justify-content: space-between;" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judenilson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judenilson&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
