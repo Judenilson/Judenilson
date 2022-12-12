@@ -40,20 +40,10 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/judenilson"/></a>
 </p>
 
-<div align="center" class="d-flex flex-justify-between">
-  <div>
+<div align="center">
   <a href="https://github.com/Judenilson">
-  <img style:"
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;" height="180em" src="https://github-readme-stats.vercel.app/api?username=judenilson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </a> </div>
-  <div>
-  <a href="https://github.com/Judenilson">
-  <img style:"
-    display: flex;
-    flex-direction: row;
-    align-items: flex-end;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judenilson&layout=compact&langs_count=7&theme=tokyonight"/>
-    </a> </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judenilson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judenilson&layout=compact&langs_count=7&theme=tokyonight"/>
+    </a>
 </div>
  
