@@ -40,9 +40,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/judenilson"/></a>
 </p>
 
-<div align="center" style="display: flex;
-    flex-direction: row;
-    justify-content: space-between;">
+<div align="center" class="d-flex flex-justify-between">
   <div>
   <a href="https://github.com/Judenilson">
   <img style:"
