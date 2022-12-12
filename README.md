@@ -6,7 +6,7 @@
   Hey! I'm a Full Stack developer, I really like to program and see hardware working. I graduated in <strong>Development and Systems Analysis</strong> and now I'm studying the last period of <strong>Computer Engineering</strong> at IFPB. -> <a href="http://lattes.cnpq.br/9878253455373113" target="_blank">Lattes</a> <-
 </p>
 
-<div style="display: flex;justify-content: space-between "><br>
+<div style="display: flex; justify-content: space-between "><br>
   <img align="center" alt="Jud-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
   <img align="center" alt="Jud-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />          
   <img align="center" alt="Jud-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />          
