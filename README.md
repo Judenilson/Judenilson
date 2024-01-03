@@ -3,7 +3,10 @@
 <img src="./img/computer.png" width="180px" align="right" alt="Computer">
 
 <p align="left"> 
-  Hey! I'm a Full Stack developer, I really like to program and see hardware working. I graduated in <strong>Development and Systems Analysis</strong> and now I'm studying the last period of <strong>Computer Engineering</strong> at IFPB. -> <a href="http://lattes.cnpq.br/9878253455373113" target="_blank">Lattes</a> <-
+  Hey! I'm a Full Stack Developer from Campina Grande - PB, I really like to program and see hardware working. I graduated in <strong> Computer Engineering </strong> and Development and Systems Analysis. </br>
+  My first "Hello World" was in 90's age when I had contact with a TK-90X programming in BASIC. </br>
+  Passionate about technology, some of my hobbies are games, watching, study tecnologies, and making electronics. See in my web page.</br>
+-> <a href="http://lattes.cnpq.br/9878253455373113" target="_blank">Lattes</a> <-
 </p>
 
 ## I already did something in...
